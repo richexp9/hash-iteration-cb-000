@@ -7,6 +7,6 @@
 # }
 
 def select_winner(passengers)
-  "Amanda Presley"
+  
   # add the code snippet here!
 end
