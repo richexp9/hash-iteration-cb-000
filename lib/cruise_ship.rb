@@ -7,7 +7,7 @@ suite_e: "Crumpet the Elf"
 }
 
 def select_winner(passengers)
-  if passengers[:suite_a].start_with?('a')
+  if passengers[:suite_a].start_with?('A')
     return passengers[:suite_a]
   end
   # add the code snippet here!
