@@ -7,6 +7,8 @@
 # }
 
 def select_winner(passengers)
-  
+  if passengers[:suite_a].start_with?('a')
+    'yeah'
+  end
   # add the code snippet here!
 end
