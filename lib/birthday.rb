@@ -5,6 +5,8 @@
 # }
 
 def happy_birthday(birthday_kids)
-  birthday_kids.each { |e|  }
+  birthday_kids.each { |e,i|
+    puts "Hi"
+  }
   # add your code snippet here!
 end
